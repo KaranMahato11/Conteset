@@ -1,0 +1,352 @@
+[
+    {
+        "name": "ProjectEuler+",
+        "url": "https://hackerrank.com/contests/projecteuler",
+        "start_time": "2014-07-07T15:38:00.000Z",
+        "end_time": "2024-07-30T18:30:00.000Z",
+        "duration": "317616720.0",
+        "site": "HackerRank",
+        "in_24_hours": "No",
+        "status": "CODING"
+    },
+    {
+        "name": "1v1 Games by CodeChef",
+        "url": "https://www.codechef.com/GAMES",
+        "start_time": "2022-10-10 06:30:00 UTC",
+        "end_time": "2032-10-10 06:30:00 UTC",
+        "duration": "315619200.0",
+        "site": "CodeChef",
+        "in_24_hours": "No",
+        "status": "CODING"
+    },
+    {
+        "name": "HCL Volt MX Hackathon 2023",
+        "url": "https://voltmx.hackerearth.com/de/",
+        "start_time": "2023-03-13T19:00:00.000Z",
+        "end_time": "2023-05-23T06:59:00.000Z",
+        "duration": "6091140.0",
+        "site": "HackerEarth",
+        "in_24_hours": "No",
+        "status": "CODING"
+    },
+    {
+        "name": "Consensus 2023 Hackathon",
+        "url": "https://web3athon2023.hackerearth.com/de/",
+        "start_time": "2023-04-17T04:00:00.000Z",
+        "end_time": "2023-06-01T03:59:00.000Z",
+        "duration": "3887940.0",
+        "site": "HackerEarth",
+        "in_24_hours": "No",
+        "status": "CODING"
+    },
+    {
+        "name": "Tectone23 Hacks",
+        "url": "https://www.hackerearth.com/de/challenges/hackathon/tectone23-hacks/",
+        "start_time": "2023-04-24T13:39:00.000Z",
+        "end_time": "2023-05-28T18:25:00.000Z",
+        "duration": "2954760.0",
+        "site": "HackerEarth",
+        "in_24_hours": "No",
+        "status": "CODING"
+    },
+    {
+        "name": "AI Genesis Hackathon",
+        "url": "https://www.hackerearth.com/de/challenges/hackathon/ai-genesis/",
+        "start_time": "2023-05-12T15:44:00.000Z",
+        "end_time": "2023-06-11T03:55:00.000Z",
+        "duration": "2549460.0",
+        "site": "HackerEarth",
+        "in_24_hours": "No",
+        "status": "CODING"
+    },
+    {
+        "name": "May Circuits '23",
+        "url": "https://www.hackerearth.com/de/challenges/competitive/may-circuits-23/",
+        "start_time": "2023-05-19T16:00:00.000Z",
+        "end_time": "2023-05-26T16:00:00.000Z",
+        "duration": "604800.0",
+        "site": "HackerEarth",
+        "in_24_hours": "No",
+        "status": "CODING"
+    },
+    {
+        "name": "TheForces Round #14 (Cool-Forces)",
+        "url": "https://codeforces.com/gymRegistration/104383",
+        "start_time": "2023-05-23T15:05:00.000Z",
+        "end_time": "2023-05-23T17:20:00.000Z",
+        "duration": "8100",
+        "site": "CodeForces::Gym",
+        "in_24_hours": "Yes",
+        "status": "BEFORE"
+    },
+    {
+        "name": "Starters 91",
+        "url": "https://www.codechef.com/START91",
+        "start_time": "2023-05-24 14:30:00 UTC",
+        "end_time": "2023-05-24 16:30:00 UTC",
+        "duration": "7200",
+        "site": "CodeChef",
+        "in_24_hours": "No",
+        "status": "BEFORE"
+    },
+    {
+        "name": "Educational Codeforces Round 149 (Rated for Div. 2)",
+        "url": "https://codeforces.com/contestRegistration/1837",
+        "start_time": "2023-05-25T14:35:00.000Z",
+        "end_time": "2023-05-25T16:35:00.000Z",
+        "duration": "7200",
+        "site": "CodeForces",
+        "in_24_hours": "No",
+        "status": "BEFORE"
+    },
+    {
+        "name": "Frontend Developer Hiring Challenge - Impact Analytics",
+        "url": "https://www.hackerearth.com/de/challenges/hiring/frontend-developer-hiring-challenge-impact-analytics/",
+        "start_time": "2023-05-26T12:30:00.000Z",
+        "end_time": "2023-06-04T18:25:00.000Z",
+        "duration": "798900.0",
+        "site": "HackerEarth",
+        "in_24_hours": "No",
+        "status": "BEFORE"
+    },
+    {
+        "name": "NS Solutions Corporation Programming Contest 2023（AtCoder Beginner Contest 303）",
+        "url": "https://atcoder.jp/contests/abc303",
+        "start_time": "2023-05-27T12:00:00.000Z",
+        "end_time": "2023-05-27T13:40:00.000Z",
+        "duration": "6000",
+        "site": "AtCoder",
+        "in_24_hours": "No",
+        "status": "BEFORE"
+    },
+    {
+        "name": "Biweekly Contest 105",
+        "url": "https://leetcode.com/contest/biweekly-contest-105",
+        "start_time": "2023-05-27T14:30:00.000Z",
+        "end_time": "2023-05-27T16:00:00.000Z",
+        "duration": "5400",
+        "site": "LeetCode",
+        "in_24_hours": "No",
+        "status": "BEFORE"
+    },
+    {
+        "name": "Codeforces Round (Div. 2)",
+        "url": "https://codeforces.com/contestRegistration/1831",
+        "start_time": "2023-05-27T14:35:00.000Z",
+        "end_time": "2023-05-27T16:35:00.000Z",
+        "duration": "7200",
+        "site": "CodeForces",
+        "in_24_hours": "No",
+        "status": "BEFORE"
+    },
+    {
+        "name": "Codeforces Round (Div. 1)",
+        "url": "https://codeforces.com/contestRegistration/1830",
+        "start_time": "2023-05-27T14:35:00.000Z",
+        "end_time": "2023-05-27T16:35:00.000Z",
+        "duration": "7200",
+        "site": "CodeForces",
+        "in_24_hours": "No",
+        "status": "BEFORE"
+    },
+    {
+        "name": "Weekly Contest 347",
+        "url": "https://leetcode.com/contest/weekly-contest-347",
+        "start_time": "2023-05-28T02:30:00.000Z",
+        "end_time": "2023-05-28T04:00:00.000Z",
+        "duration": "5400",
+        "site": "LeetCode",
+        "in_24_hours": "No",
+        "status": "BEFORE"
+    },
+    {
+        "name": "AtCoder Regular Contest 161",
+        "url": "https://atcoder.jp/contests/arc161",
+        "start_time": "2023-05-28T12:00:00.000Z",
+        "end_time": "2023-05-28T14:00:00.000Z",
+        "duration": "7200",
+        "site": "AtCoder",
+        "in_24_hours": "No",
+        "status": "BEFORE"
+    },
+    {
+        "name": "Codeforces Round (Div. 2)",
+        "url": "https://codeforces.com/contestRegistration/1838",
+        "start_time": "2023-05-28T14:35:00.000Z",
+        "end_time": "2023-05-28T16:35:00.000Z",
+        "duration": "7200",
+        "site": "CodeForces",
+        "in_24_hours": "No",
+        "status": "BEFORE"
+    },
+    {
+        "name": "Build with the simple bear necessities ʕ •ᴥ•ʔ",
+        "url": "https://moonbeam.hackerearth.com/de/",
+        "start_time": "2023-05-30T13:00:00.000Z",
+        "end_time": "2023-06-28T00:00:00.000Z",
+        "duration": "2458800.0",
+        "site": "HackerEarth",
+        "in_24_hours": "No",
+        "status": "BEFORE"
+    },
+    {
+        "name": "Starters 92",
+        "url": "https://www.codechef.com/START92",
+        "start_time": "2023-05-31 14:30:00 UTC",
+        "end_time": "2023-05-31 16:30:00 UTC",
+        "duration": "7200",
+        "site": "CodeChef",
+        "in_24_hours": "No",
+        "status": "BEFORE"
+    },
+    {
+        "name": "American Express Makeathon 2023",
+        "url": "https://www.hackerearth.com/de/challenges/hackathon/american-express-makeathon-2023/",
+        "start_time": "2023-06-02T12:30:00.000Z",
+        "end_time": "2023-06-18T18:29:00.000Z",
+        "duration": "1403940.0",
+        "site": "HackerEarth",
+        "in_24_hours": "No",
+        "status": "BEFORE"
+    },
+    {
+        "name": "Tokio Marine \u0026 Nichido Fire Insurance Programming Contest 2023（AtCoder Beginner Contest 304)",
+        "url": "https://atcoder.jp/contests/abc304",
+        "start_time": "2023-06-03T12:00:00.000Z",
+        "end_time": "2023-06-03T13:40:00.000Z",
+        "duration": "6000",
+        "site": "AtCoder",
+        "in_24_hours": "No",
+        "status": "BEFORE"
+    },
+    {
+        "name": "Starters 93",
+        "url": "https://www.codechef.com/START93",
+        "start_time": "2023-06-07 14:30:00 UTC",
+        "end_time": "2023-06-07 16:30:00 UTC",
+        "duration": "7200",
+        "site": "CodeChef",
+        "in_24_hours": "No",
+        "status": "BEFORE"
+    },
+    {
+        "name": "Backend Developer Hiring Challenge - Impact Analytics",
+        "url": "https://www.hackerearth.com/de/challenges/hiring/backend-developer-hiring-challenge-impact-analytics/",
+        "start_time": "2023-06-09T12:30:00.000Z",
+        "end_time": "2023-06-19T00:30:00.000Z",
+        "duration": "820800.0",
+        "site": "HackerEarth",
+        "in_24_hours": "No",
+        "status": "BEFORE"
+    },
+    {
+        "name": "ALGO ARTIS Programming Contest 2023（AtCoder Heuristic Contest 020）",
+        "url": "https://atcoder.jp/contests/ahc020",
+        "start_time": "2023-06-11T06:00:00.000Z",
+        "end_time": "2023-06-11T10:00:00.000Z",
+        "duration": "14400",
+        "site": "AtCoder",
+        "in_24_hours": "No",
+        "status": "BEFORE"
+    },
+    {
+        "name": "Starters 94",
+        "url": "https://www.codechef.com/START94",
+        "start_time": "2023-06-14 14:30:00 UTC",
+        "end_time": "2023-06-14 16:30:00 UTC",
+        "duration": "7200",
+        "site": "CodeChef",
+        "in_24_hours": "No",
+        "status": "BEFORE"
+    },
+    {
+        "name": "Codeforces Round (Div. 2)",
+        "url": "https://codeforces.com/contestRegistration/1834",
+        "start_time": "2023-06-18T08:05:00.000Z",
+        "end_time": "2023-06-18T10:05:00.000Z",
+        "duration": "7200",
+        "site": "CodeForces",
+        "in_24_hours": "No",
+        "status": "BEFORE"
+    },
+    {
+        "name": "AtCoder Regular Contest 162",
+        "url": "https://atcoder.jp/contests/arc162",
+        "start_time": "2023-06-18T12:00:00.000Z",
+        "end_time": "2023-06-18T14:00:00.000Z",
+        "duration": "7200",
+        "site": "AtCoder",
+        "in_24_hours": "No",
+        "status": "BEFORE"
+    },
+    {
+        "name": "Codeforces Round (Div. 2)",
+        "url": "https://codeforces.com/contestRegistration/1836",
+        "start_time": "2023-06-18T14:35:00.000Z",
+        "end_time": "2023-06-18T16:35:00.000Z",
+        "duration": "7200",
+        "site": "CodeForces",
+        "in_24_hours": "No",
+        "status": "BEFORE"
+    },
+    {
+        "name": "Codeforces Round (Div. 1)",
+        "url": "https://codeforces.com/contestRegistration/1835",
+        "start_time": "2023-06-18T14:35:00.000Z",
+        "end_time": "2023-06-18T16:35:00.000Z",
+        "duration": "7200",
+        "site": "CodeForces",
+        "in_24_hours": "No",
+        "status": "BEFORE"
+    },
+    {
+        "name": "inCode 2023 — Challenging injustice",
+        "url": "https://www.hackerearth.com/de/challenges/hackathon/incode-2023-challenging-injustice/",
+        "start_time": "2023-06-18T21:00:00.000Z",
+        "end_time": "2023-07-09T20:59:00.000Z",
+        "duration": "1814340.0",
+        "site": "HackerEarth",
+        "in_24_hours": "No",
+        "status": "BEFORE"
+    },
+    {
+        "name": "Rootstock: Bitcoin Scaling Hackathon",
+        "url": "https://rootstock.hackerearth.com/de/",
+        "start_time": "2023-06-19T13:01:00.000Z",
+        "end_time": "2023-07-10T12:44:00.000Z",
+        "duration": "1813380.0",
+        "site": "HackerEarth",
+        "in_24_hours": "No",
+        "status": "BEFORE"
+    },
+    {
+        "name": "Starters 95",
+        "url": "https://www.codechef.com/START95",
+        "start_time": "2023-06-21 14:30:00 UTC",
+        "end_time": "2023-06-21 16:30:00 UTC",
+        "duration": "7200",
+        "site": "CodeChef",
+        "in_24_hours": "No",
+        "status": "BEFORE"
+    },
+    {
+        "name": "Starters 96",
+        "url": "https://www.codechef.com/START96",
+        "start_time": "2023-06-28 14:30:00 UTC",
+        "end_time": "2023-06-28 16:30:00 UTC",
+        "duration": "7200",
+        "site": "CodeChef",
+        "in_24_hours": "No",
+        "status": "BEFORE"
+    },
+    {
+        "name": "Future Wear Techathon 2023",
+        "url": "https://www.hackerearth.com/de/challenges/hackathon/titan-technext-hackathon-2023/",
+        "start_time": "2023-07-29T03:30:00.000Z",
+        "end_time": "2023-07-29T19:25:00.000Z",
+        "duration": "57300.0",
+        "site": "HackerEarth",
+        "in_24_hours": "No",
+        "status": "BEFORE"
+    }
+]
